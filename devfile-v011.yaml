@@ -31,6 +31,4 @@ components:
   - name: wazi
     containerPath: /home/wazi/.zowe  
 - type: chePlugin
-  id: ibm/wazi-development-client/1.0.0
-  
-    
+  id: ibm/wazi-development-client/1.0.0    

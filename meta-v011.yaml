@@ -5,7 +5,7 @@
 # Use, duplication or disclosure restricted by GSA ADP Schedule
 # Contract with IBM Corp.
 apiVersion: v2
-publisher: IBM
+publisher: ibm
 name: db2forzosdeveloperextension
 version: 0.1.1
 type: VS Code extension

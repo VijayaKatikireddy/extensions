@@ -7,7 +7,7 @@
 
 apiVersion: 1.0.0
 metadata:
-  generateName: ibm-db2zsql-mavericks-
+  generateName: db2ext-v0.1.1-
 projects:
   -
     name: sqlrepo_sample
